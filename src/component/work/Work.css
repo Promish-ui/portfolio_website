@@ -1,0 +1,62 @@
+.workcontainer{
+   
+
+    margin: 150px 50px;
+    height: 100%;
+
+}
+.worktext{
+    text-align: center;
+
+}
+
+.workdatacontainer{
+    margin: 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.workrow {
+    display: flex;
+}
+
+.workdata{
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.workdata img{
+    border-radius: 20px;
+
+}
+
+.workdata:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.workbtn{
+    margin: 80px 0 80px 40%;
+    padding: 20px 50px;
+    font-size: 18px;
+    border-radius: 10px;
+    border-color: royalblue;
+    color: royalblue;
+    background-color: white;
+   
+}
+
+.workbtn:hover{
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+    
+}
+
+.hirebtn{
+    margin: 40px 0 40px 40%;
+}
