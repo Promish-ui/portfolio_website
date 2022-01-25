@@ -9,13 +9,13 @@ export default function Navbar() {
                 <div className="logo">Promish</div>
 
 
-
                 <ul className="nav_menu">
 
                     <li className="nav_items">Home</li>
                     <li className="nav_items">Products</li>
                     <li className="nav_items">About Me</li>
                     <li className="nav_items">Contact</li>
+                    <li className="nav_items">Contact1</li>
 
                  </ul>
 
