@@ -24,7 +24,7 @@ export default function Service() {
             <i class="fas slogo fa-code"></i>
             <h3>Front-End Developer</h3>
             <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
-            <p className='colortext'>Languages I speak:</p>
+            <p className='colortext'>Languages I code:</p>
             <p>HTML, Pug, Slim, CSS, Sass, Less</p>
             <p className='colortext'>Dev Tools:</p>
             <ul className='toollist'>
