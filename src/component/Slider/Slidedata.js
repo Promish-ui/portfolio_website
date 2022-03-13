@@ -1,6 +1,6 @@
-import ImageOne from './img1.jpg';
-import ImageTwo from './img2.jpg';
-import ImageThree from './img3.jpg';
+import ImageOne from './Portfolio1.jpg';
+import ImageTwo from './Portfolio2.jpg';
+import ImageThree from './Portfolio3.jpg';
 
 
 
@@ -8,24 +8,24 @@ import ImageThree from './img3.jpg';
 
 export const Slidedata = [
     {
-        title: 'Manish Parajuli',
-        price: '20',
+        title: ' ',
+        price: '',
         path: '/homes',
         label: '',
         images: ImageOne,
         alt: 'products'
     },
     {
-        title: 'Promish Khaniya',
-        price: '30',
+        title: '',
+        price: '',
         path: '/homes',
         label: '',
         images: ImageTwo,
         alt: 'products'
     },
     {
-        title: 'Rojesh Shrestha',
-        price: '40',
+        title: '',
+        price: '',
         path: '/homes',
         label: '',
         images: ImageThree,

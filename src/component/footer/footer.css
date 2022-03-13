@@ -3,6 +3,7 @@
     color: white;
     border-radius: 8px;
     margin-bottom: 10px;
+    background-color: #3CAEA3;
     
 }
 
@@ -21,10 +22,11 @@
 .fab{
   margin: 0 5px;
 }
-.midbox{
+.midboxfooter{
   display: flex;
   justify-content: space-between;
-  padding: 30px 30px 0 30px;
+  padding: 10px 30px ;
+  align-items: center;
 }
 
 .bold{
@@ -33,9 +35,9 @@
 }
 
 .inputformat{
-  background-color: #16558f;
+  
   border: 1px solid white;
-  color: white;
+  color: black;
   padding: 8px;
 }
 
@@ -59,3 +61,35 @@
   padding: 20px;
   margin-top: 30px;
 }
+
+
+
+.back_top i {
+color: white;
+font-size: 24px;
+cursor: pointer;
+}
+@media (max-width: 500px){
+  .topbox{
+    
+  
+    font-size: 18px;
+   
+  }
+  .midboxfooter{
+   flex-direction: column;
+   padding: 0;
+   margin: 0;
+   justify-content: left;
+   align-items: left;
+    
+  
+  }
+  .footer_line{
+    font-size: 10px;
+  }
+  
+
+
+}
+

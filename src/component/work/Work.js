@@ -1,7 +1,10 @@
 import React from 'react'
 import './Work.css'
-import img1 from './img1.jpg';
-import img2 from './img2.jpg';
+
+import img4 from './img4.png';
+import img5 from './img5.png';
+import img6 from './img6.jpg';
+
 
 
 export default function Work() {
@@ -13,18 +16,18 @@ export default function Work() {
                 <div className='workdatacontainer'>
                     <div className='workrow'>
                         <div className='workdata'>
-                            <img src={img1} alt='promish' />
+                            <img src={img4} alt='promish' />
                         </div>
                         <div className='workdata'>
-                            <img src={img1} alt='promish' />
+                            <img src={img5} alt='promish' />
                         </div>
                     </div>
                     <div className='workrow'>
                     <div className='workdata'>
-                            <img src={img1} alt='promish' />
+                            <img src={img4} alt='promish' />
                         </div>
                         <div className='workdata'>
-                            <img src={img1} alt='promish' />
+                            <img src={img5} alt='promish' />
                         </div>
                         
                     </div>
